@@ -1,4 +1,4 @@
-# README
+### Description of files and folders
 
 **run.m:** Project execution entry
 
