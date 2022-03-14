@@ -1,10 +1,12 @@
-run.m: Project execution entry
+# README
 
-sequence_analysis.py: VOC sequence analysis script
+**run.m:** Project execution entry
 
-General: Definition of the functions used in the project
+**sequence_analysis.py:** VOC sequence analysis script
 
-data: Partial data used in the project
+**General:** Definition of the functions used in the project
+
+**data:** Partial data used in the project
 
 
 
